@@ -57,7 +57,3 @@ def main():
 if __name__ == "__main__":
     nltk.download("punkt")
     main()
-
-
-#    cd C:\Users\Hiral\PycharmProjects\news_summarizer
-#streamlit run main.py
